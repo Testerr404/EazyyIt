@@ -1,0 +1,89 @@
+body{
+    margin: 25px;
+    text-align:center;
+     background-color:197278;
+}
+
+.epic{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+
+
+
+.webd{
+    width: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.image-laptop{
+    width: 500px;
+    height: 250px;
+    width: 250px;
+  }
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+h2{
+    color: #1a535c;
+    font-size: 3.5em;
+    font-family: monospace;
+}
+
+h3{
+    font-size: 2em;
+    font-family: cursive;
+    color:#1a535c;
+}
+
+.pic{
+    margin-top: 50px;
+}
+
+p{
+    font-family: monospace;
+    font-size: 1.8em;
+ }
+
+.footer-link{
+    margin: 10px;
+    width: 2.5em;
+    font-family: monospace;
+    color:#1a535c;
+    font-size: 20px;
+}
+
+.btn{
+    margin: 20px;
+    color:3d405b;
+    font-size: 20px;
+}
+
+hr{
+border-style: double;
+    border-color: burlywood;
+    border-width: 8px;
+    width: 5%;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin: 40px auto 40px auto
+}
+
+.bottom-container{
+    background-color: #197278;
+    margin-left: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contact-me{
+    padding-bottom: 50px;
+}
